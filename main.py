@@ -1,5 +1,5 @@
 BOT_TOKEN = ""
-# main.py
+
 import os
 import asyncio
 import traceback

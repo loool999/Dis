@@ -1,4 +1,3 @@
-# cogs/ping.py
 from discord.ext import commands
 
 class Ping(commands.Cog):
