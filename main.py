@@ -1,4 +1,4 @@
-BOT_TOKEN = "MTQwNjcyNzg2MDYzMDA2MTA4Ng.GnKV8a.oBtpp54NkpnNrrxFTEmZi8LZa3qT4jz6-6aWwg"  # <-- paste token between the quotes
+BOT_TOKEN = ""  # <-- paste token between the quotes
 # main.py
 import os
 import asyncio
